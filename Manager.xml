@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Clients>
+	<User ID="01">
+		<login>Hulk</login>
+		<password>a1</password>
+	</User>
+	<User ID="02">
+		<login>Ironman</login>
+		<password>a2</password>
+	</User>
+</Clients>
