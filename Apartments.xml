@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+	<Apartments>
+		<apartment id="001">
+			<apartmentname>Zeus</apartmentname>
+			<price>500</price>
+			<startdate>03/11/19</startdate>
+			<enddate>04/11/19</enddate>
+			<maxguests>4</maxguests>
+			<bedroom>2</bedroom>
+			<livingroom>no</livingroom>
+			<bathroom>2</bathroom>
+		</apartment>
+		
+		<apartment id="002">
+			<apartmentname>Poseidon</apartmentname>
+			<price>200</price>
+			<startdate>04/11/19</startdate>
+			<enddate>05/11/19</enddate>
+			<maxguests>3</maxguests>
+			<bedroom>1</bedroom>
+			<livingroom>no</livingroom>
+			<bathroom>1</bathroom>
+		</apartment>
+		
+		<apartment id="003">
+			<apartmentname>Acheron</apartmentname>
+			<price>700</price>
+			<startdate>05/11/19</startdate>
+			<enddate>06/11/19</enddate>
+			<maxguests>6</maxguests>
+			<bedroom>4</bedroom>
+			<livingroom>yes</livingroom>
+			<bathroom>3</bathroom>
+		</apartment>
+		
+		<apartment id="004">
+			<apartmentname>Aphrodite</apartmentname>
+			<price>900</price>
+			<startdate>06/11/19</startdate>
+			<enddate>07/11/19</enddate>
+			<maxguests>3</maxguests>
+			<bedroom>5</bedroom>
+			<livingroom>yes</livingroom>
+			<bathroom>3</bathroom>
+		</apartment>
+		
+		<apartment id="005">
+			<apartmentname>Apollo</apartmentname>
+			<price>150</price>
+			<startdate>07/11/19</startdate>
+			<enddate>08/11/19</enddate>
+			<maxguests>2</maxguests>
+			<bedroom>1</bedroom>
+			<livingroom>no</livingroom>
+			<bathroom>1</bathroom>
+		</apartment>
+		
+		<apartment id="006">
+			<apartmentname>Ares</apartmentname>
+			<price>70</price>
+			<startdate>08/11/19</startdate>
+			<enddate>09/11/19</enddate>
+			<maxguests>1</maxguests>
+			<bedroom>1</bedroom>
+			<livingroom>no</livingroom>
+			<bathroom>1</bathroom>
+		</apartment>
+		
+		<apartment id="007">
+			<apartmentname>Artemis</apartmentname>
+			<price>1800</price>
+			<startdate>09/11/19</startdate>
+			<enddate>10/11/19</enddate>
+			<maxguests>5</maxguests>
+			<bedroom>3</bedroom>
+			<livingroom>yes</livingroom>
+			<bathroom>2</bathroom>
+		</apartment>
+		
+		<apartment id="008">
+			<apartmentname>Hera</apartmentname>
+			<price>1400</price>
+			<startdate>10/11/19</startdate>
+			<enddate>11/11/19</enddate>
+			<maxguests>4</maxguests>
+			<bedroom>2</bedroom>
+			<livingroom>yes</livingroom>
+			<bathroom>2</bathroom>
+		</apartment>
+		
+		<apartment id="009">
+			<apartmentname>Demeter</apartmentname>
+			<price>600</price>
+			<startdate>11/11/19</startdate>
+			<enddate>12/11/19</enddate>
+			<maxguests>5</maxguests>
+			<bedroom>3</bedroom>
+			<livingroom>no</livingroom>
+			<bathroom>3</bathroom>
+		</apartment>
+		
+		<apartment id="010">
+			<apartmentname>Dionysus</apartmentname>
+			<price>300</price>
+			<startdate>12/11/19</startdate>
+			<enddate>13/11/19</enddate>
+			<maxguests>6</maxguests>
+			<bedroom>4</bedroom>
+			<livingroom>no</livingroom>
+			<bathroom>3</bathroom>
+		</apartment>
+	</Apartments>
